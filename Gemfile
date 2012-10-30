@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-gem 'enumerize'
+gem 'enumerize', git: 'git://github.com/brainspec/enumerize.git'
 gem 'inherited_resources'
 gem 'jquery-rails'
 gem 'rails'
